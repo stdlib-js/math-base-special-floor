@@ -182,6 +182,23 @@ int main() {
 
 <!-- /.c -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/ceil`][@stdlib/math/base/special/ceil]: round a double-precision floating-point number toward positive infinity.
+-   [`@stdlib/math/base/special/round`][@stdlib/math/base/special/round]: round a numeric value to the nearest integer.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -236,6 +253,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-floor/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/ceil]: https://github.com/stdlib-js/math-base-special-ceil
+
+[@stdlib/math/base/special/round]: https://github.com/stdlib-js/math-base-special-round
+
+<!-- </related-links> -->
 
 </section>
 
