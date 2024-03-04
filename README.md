@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
+import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@v0.2.2-deno/mod.js';
 ```
 
 #### floor( x )
@@ -75,7 +75,7 @@ v = floor( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
+import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@v0.2.2-deno/mod.js';
 
 var x;
 var i;
