@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-03-19)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1f50c39`](https://github.com/stdlib-js/stdlib/commit/1f50c39f80b82063df058f738e1798e192ca0911) - **bench:** update random value generation [(#6164)](https://github.com/stdlib-js/stdlib/pull/6164) _(by Harsh)_
 -   [`d71493e`](https://github.com/stdlib-js/stdlib/commit/d71493e2f9ec53c9b7168ae0baf81731ebf15a9d) - **build:** add WebAssembly configuration _(by Athan Reines)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
 -   [`55ec8ed`](https://github.com/stdlib-js/stdlib/commit/55ec8edfeb7000bca7478af116e794f20560e922) - **docs:** remove comment _(by Athan Reines)_
@@ -27,9 +28,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 
 </section>
 
