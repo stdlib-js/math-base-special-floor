@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
+import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@v0.2.4-deno/mod.js';
 ```
 
 #### floor( x )
@@ -76,7 +76,7 @@ v = floor( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
+import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@v0.2.4-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
