@@ -35,6 +35,22 @@ limitations under the License.
 
 > Round a double-precision floating-point number toward negative infinity.
 
+<section class="intro">
+
+The [floor function][floor-function] is defined as
+
+<!-- <equation class="equation" label="eq:floor_function" align="center" raw="y = \lfloor x \rfloor = \max\{ n \in \mathbb{Z} : n \leq x \}" alt="Floor function"> -->
+
+```math
+y = \lfloor x \rfloor = \max\{ n \in \mathbb{Z} : n \leq x \}
+```
+
+<!-- </equation> -->
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
@@ -279,6 +295,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-floor/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-floor/main/LICENSE
+
+[floor-function]: https://en.wikipedia.org/wiki/Floor_and_ceiling_functions
 
 <!-- <related-links> -->
 

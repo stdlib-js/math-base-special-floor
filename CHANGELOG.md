@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-24)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b69f125`](https://github.com/stdlib-js/stdlib/commit/b69f125e64207b556cf745414f2d67b59758b514) - **docs:** add equations [(#14689)](https://github.com/stdlib-js/stdlib/pull/14689) _(by Karan Anand)_
 -   [`a5f1905`](https://github.com/stdlib-js/stdlib/commit/a5f190528adacae01ce743e29bc4e1f91d005947) - **bench:** use string interpolation in `math/base/special/floor` [(#10736)](https://github.com/stdlib-js/stdlib/pull/10736) _(by travisBREAKS, Egger)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Egger
+-   Karan Anand
 -   travisBREAKS
 
 </section>
